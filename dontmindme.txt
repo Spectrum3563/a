@@ -1,0 +1,3 @@
+#include<wtf>
+using ur idiotation;
+fk main(){return lmao;}
